@@ -13,6 +13,8 @@ Note: 1. You can use any port number. 2. Remember to change the user data direct
 
 Join the meeting from the new chrome window that pop out after executing the above command.
 
-Run quick_reply.py and you're done!
+### Run quick_reply.py and you're done!
 
-Feel free to reach me at https://www.linkedin.com/in/harsha-netha/ for any queries.
+Feel free to add error handling techniques.
+
+Reach me at https://www.linkedin.com/in/harsha-netha/ for any queries.
